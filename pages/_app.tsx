@@ -109,6 +109,10 @@ const GlobalStyles = createGlobalStyle`
 
   body {
     font-family: 'Inter', sans-serif;
+
+    padding: 0 1rem 1rem 1rem;
+    max-width: 1024px;
+    margin: 0 auto;
     background: #fff;
     color: #333;
     margin: 0;
